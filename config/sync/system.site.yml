@@ -1,0 +1,14 @@
+uuid: 0960a091-48bb-41b1-a4ab-ac8775178306
+name: D8
+mail: examplw@ukr.netr
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
